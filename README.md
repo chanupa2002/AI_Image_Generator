@@ -1,3 +1,5 @@
+PLEASE INSTALL NODE MODULES FOLDER BEFORE RUNNING THE PROGRAMME !!!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
